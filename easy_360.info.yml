@@ -1,0 +1,10 @@
+name: Easy 360 Product Viewer
+type: module
+description: Provides 360 photography display using the Easy 350 Product Viewer library.
+package: Easy 360
+
+core: 8.x
+core_version_requirement: ^8 || ^9
+
+dependencies:
+  - drupal:image

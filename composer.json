@@ -1,0 +1,20 @@
+{
+    "name": "drupal/easy_360",
+    "type": "drupal-module",
+    "description": "A Drupal module that provides 360 photography display using the Easy 360 Product Viewer library.",
+    "keywords": ["Drupal"],
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.drupal.org/project/easy_360",
+    "authors": [
+        {
+            "name": "krystalcode",
+            "homepage": "https://www.drupal.org/u/krystalcode",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/easy_360",
+        "source": "https://git.drupalcode.org/project/easy_360"
+    },
+    "minimum-stability": "dev"
+}
